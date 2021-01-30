@@ -1,19 +1,22 @@
 # Install Tensorflow-gpu on WSL2(Ubuntu-20.04 LTS)
-> created: 20210130
-> last-edit: 20210130
+> created: 20210130  
+> last-edit: 20210130  
 
-> ubuntu: 20.04 LTS
-> python: 3.8.5 (wsl-ubuntu-20.04 LTS default version at 20210130)
-> cuda: 11.0
-> cudnn: 8.0.4
-> tensorflow-gpu: 2.4.0
 
-1. references
-   1. [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-   2. [CUDA on WSL User Guide](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
-   3. [Tensorflow-gpu version information](https://www.tensorflow.org/install/source#gpu_support_3)
+> ubuntu: 20.04 LTS  
+> python: 3.8.5 (wsl-ubuntu-20.04 LTS default version at 20210130)  
+> cuda: 11.0  
+> cudnn: 8.0.4  
+> tensorflow-gpu: 2.4.0  
 
-2. update & upgrade
+
+> references:  
+> [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)  
+> [CUDA on WSL User Guide](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)  
+> [Tensorflow-gpu version information](https://www.tensorflow.org/install/source#gpu_support_3)  
+
+
+1. update & upgrade
 ```bash 
 sudo apt-get update && apt-get upgrade -y
 ```
