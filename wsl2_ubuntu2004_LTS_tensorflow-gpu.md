@@ -73,3 +73,4 @@ tf.test.is_gpu_available() # shall output "True" at last
 tf.config.list_physical_devices('GPU') # shall output gpu-device-info at first and device-list at last
 exit()
 ```
+10. install other machine-learning tools
