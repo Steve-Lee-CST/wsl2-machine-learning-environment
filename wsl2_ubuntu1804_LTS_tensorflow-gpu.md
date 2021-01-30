@@ -11,9 +11,9 @@
 
 
 > references
-   1. [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-   2. [CUDA on WSL User Guide](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
-   3. [Tensorflow-gpu version information](https://www.tensorflow.org/install/source#gpu_support_3)
+   1. [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)  
+   2. [CUDA on WSL User Guide](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)  
+   3. [Tensorflow-gpu version information](https://www.tensorflow.org/install/source#gpu_support_3)  
 
 
 1. update & upgrade
