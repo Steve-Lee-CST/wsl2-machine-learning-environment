@@ -1,6 +1,6 @@
 # Install Tensorflow-gpu on WSL2(Ubuntu-18.04 LTS)
-> created: 20210130
-> last-edit: 20210130
+> created: 20210130  
+> last-edit: 20210130  
 
 
 > ubuntu: 18.04 LTS  
