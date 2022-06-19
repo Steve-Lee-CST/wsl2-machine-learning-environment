@@ -28,7 +28,7 @@ sudo python3 get-pip.py
 3. install cuda
 > note: check the two link is available or not before use
 ```bash
-apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/7fa2af80.pub
+apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/3bf863cc.pub
 sh -c 'echo "deb http://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64 /" > /etc/apt/sources.list.d/cuda.list'
 apt update
 apt install -y cuda-toolkit-11-0
